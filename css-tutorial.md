@@ -443,7 +443,7 @@ background-size: cover;
 </html>
 ]
 ```
-[![Uploading image.png…]()
+[![image](https://github.com/user-attachments/assets/e9711648-fc86-42a3-b785-4bd81d0109c8)
 ]
 
 [](#การทดลองที่-4-การจัดการขนาดและระยะห่าง)
@@ -540,12 +540,49 @@ border: 1px solid black;
 
 ### ผลการทดลอง
 ```html
-[วางโค้ด HTML ที่นี่]
+[</style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="stat-box">
+            <div class="stat-number">1,234</div>
+            <div class="stat-label">ผู้ใช้งาน</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">5.6K</div>
+            <div class="stat-label">ยอดขาย</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">98%</div>
+            <div class="stat-label">ความพึงพอใจ</div>
+        </div>
+    </div>
+</body>
+</html>]
 ```
 ```css
-[วางโค้ด CSS ที่นี่]
+[  </style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="stat-box">
+            <div class="stat-number">1,234</div>
+            <div class="stat-label">ผู้ใช้งาน</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">5.6K</div>
+            <div class="stat-label">ยอดขาย</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">98%</div>
+            <div class="stat-label">ความพึงพอใจ</div>
+        </div>
+    </div>
+</body>
+</html>]
 ```
-[บันทึกภาพหน้าจอของผลลัพธ์การทดลอง]
+[![Uploading image.png…]()
+]
 
 [](#การทดลองที่-5-การจัดการข้อความและฟอนต์)
 ## การทดลองที่ 5: การจัดการข้อความและฟอนต์
