@@ -443,7 +443,7 @@ background-size: cover;
 </html>
 ]
 ```
-[![image](https://github.com/user-attachments/assets/e9711648-fc86-42a3-b785-4bd81d0109c8)
+[![image](https://github.com/user-attachments/assets/4b23c8c4-6743-4403-a6f5-87d057e7f2b5)
 ]
 
 [](#การทดลองที่-4-การจัดการขนาดและระยะห่าง)
@@ -581,7 +581,7 @@ border: 1px solid black;
 </body>
 </html>]
 ```
-[![Uploading image.png…]()
+[![image](https://github.com/user-attachments/assets/a649fbc8-a47c-4cd2-91ef-705775661c9f)
 ]
 
 [](#การทดลองที่-5-การจัดการข้อความและฟอนต์)
